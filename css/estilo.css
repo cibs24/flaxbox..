@@ -1,0 +1,203 @@
+.container
+{
+    display: flex;
+    background-color: #a4c3ce;
+    width: 1200px;
+    height: 700px;
+
+    margin:0 auto;
+    flex-direction: column;
+   
+}
+p
+{
+    text-align: justify;
+}
+.logo
+{
+    flex: 1;
+    background-color: #001c30;
+
+}
+.itemfinal
+{
+    flex: 1;
+    background-color: #001c30;
+}
+.item1
+{
+    display: flex;
+    flex: 3;
+    flex-direction: row;
+
+}
+.item2
+{
+    flex: 1;
+}
+.item2 ul li
+{
+    text-decoration: none;
+    background-color: #001c30;
+    display: inline; 
+    margin: 0px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+a
+{
+    color: #ffffff;
+}
+.h1index
+{
+    color:aliceblue
+}
+.item3
+{
+    flex: 2;
+}
+.item4
+{
+    flex: 1;
+}
+.containere
+{
+    display: flex;
+    background-color: #def1f8;
+    width: 1200px;
+    height: 700px;
+
+    margin:0 auto;
+    
+    display: flex;
+    flex-direction: column;
+   
+}
+.mat1
+{
+    flex: 1;
+    background-color: #001c30;
+    text-align: center;
+}
+.mat1 ul li
+{
+    text-decoration: none;
+    background-color: #8092a0;
+    display: inline; 
+    margin: 70px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+
+}
+.mat2
+{
+    flex: 8;
+    display: flex;
+    background-color: #a4c3ce;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.mat3
+{
+    flex: 1;
+    background-color: #a4c3ce;
+
+}
+
+.cont
+{
+    flex: 1;
+    background-color: #a4c3ce;
+    margin: 30px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    text-align: center;
+
+}
+.cont1
+{
+    background-color: #e7f0f4;
+
+}
+.cont2
+{
+
+    background-color: #e7f0f4;
+
+}
+.cont3
+{
+
+    background-color: #e7f0f4; 
+
+}
+.h1mat
+{
+    margin: -21px;
+    height: 60px;
+    color:#ffffff;
+    background-color: #001c30;
+}
+.conteinerprof
+{
+    display: flex;
+    background-color: #001c30;
+    width: 1200px;
+    height: 700px;
+    align-items: center;
+    margin:0 auto;
+    flex-direction: row;
+    
+   
+
+}
+.bloco
+{
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    
+}
+
+.bloco1
+{
+    background-color: #a4c3ce;
+    flex:1;
+    height: 20vh;
+
+}
+.bloco2
+{
+    background-color: #e7f0f4;
+    flex:1;
+    height: 30vh;
+}
+.bloco3
+{
+    background-color: #a4c3ce;
+    flex:1;
+    height: 15vh;
+}
+.bloco4
+{
+    background-color: #e7f0f4;
+    flex:1;
+    height: 35vh;
+}
+.bloco5
+{
+    background-color: #a4c3ce;
+    flex:1;
+    height: 50vh;
+}
+.bloco6
+{
+    background-color: #e7f0f4;
+    flex: 1;
+    height: 20vh;
+
+}

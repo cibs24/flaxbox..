@@ -148,12 +148,38 @@ a
     background-color: #001c30;
     width: 1200px;
     height: 700px;
-    align-items: center;
     margin:0 auto;
-    flex-direction: row;
-    
-   
+    flex-direction: column;
 
+}
+.contei1
+{
+    display: flex;
+    flex:1;
+    background-color: #c9d6db;  
+    align-items: center;
+    justify-content: center;
+
+}
+.contei1 ul li
+{
+    
+    text-decoration: none;
+    background-color: #0c1f2e;
+    display: inline; 
+    margin: 70px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;  
+
+}
+.contei2
+{
+    display: flex;
+    flex:7;
+    background-color: #001c30;
+    flex-direction: row;
+    align-items: center;
 }
 .bloco
 {
